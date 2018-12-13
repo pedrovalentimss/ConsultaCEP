@@ -1,0 +1,7 @@
+C:\Users\ppepo\Desktop\ConsultaCepAPI\ConsultaCepAPI\bin\Debug\ConsultaCepAPI.exe.config
+C:\Users\ppepo\Desktop\ConsultaCepAPI\ConsultaCepAPI\bin\Debug\ConsultaCepAPI.exe
+C:\Users\ppepo\Desktop\ConsultaCepAPI\ConsultaCepAPI\bin\Debug\ConsultaCepAPI.pdb
+C:\Users\ppepo\Desktop\ConsultaCepAPI\ConsultaCepAPI\obj\Debug\ConsultaCepAPI.csprojAssemblyReference.cache
+C:\Users\ppepo\Desktop\ConsultaCepAPI\ConsultaCepAPI\obj\Debug\ConsultaCepAPI.csproj.CoreCompileInputs.cache
+C:\Users\ppepo\Desktop\ConsultaCepAPI\ConsultaCepAPI\obj\Debug\ConsultaCepAPI.exe
+C:\Users\ppepo\Desktop\ConsultaCepAPI\ConsultaCepAPI\obj\Debug\ConsultaCepAPI.pdb
